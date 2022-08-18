@@ -1,6 +1,2 @@
-<!--logs.wxml-->
-<view class="container log-list">
-  <block wx:for="{{logs}}" wx:key="timeStamp" wx:for-item="log">
-    <text class="log-item">{{index + 1}}. {{log.date}}</text>
-  </block>
-</view>
+<image src="https://i0.hdslb.com/bfs/face/588e884fe2f7e5e357f0221339f0bd986c440629.jpg@240w_240h_1c_1s.webp"></image>
+<image src="https://i0.hdslb.com/bfs/face/588e884fe2f7e5e357f0221339f0bd986c440629.jpg@240w_240h_1c_1s.webp"></image>
