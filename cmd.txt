@@ -1,0 +1,40 @@
+dxdiag 查看电脑配置       
+mrt 恶意软件扫描                                                            #define _CRT_SECURE_NO_WARNINGS
+                                         
+ cmd:npm -v  node-v
+
+mspaint   画图
+calc  计算器
+
+sndrec32  录音机
+
+shutdown   60秒倒计时关机
+
+notepad  打开记事本
+
+cleanmgr   垃圾清理
+
+devmgmt.msc  设备管理器
+
+rononce-p     15秒关机
+
+write  写字板
+
+
+mspaint   画图板
+
+osk  打开屏幕键盘
+
+let x=2
+    this.setData({
+      ["list2["+x+"].id"]:10
+    })
+
+wx:for-index='home'
+
+  const _ =db.command
+ pings:_.push([ping]),
+
+
+多个参数
+ url: '../test2/my?name=' + name + "&name2=" + name2+ "&name3=" + name3 //此处注意中文符号与引文符号的？
